@@ -1,0 +1,6 @@
+.output/
+.vscode/
+.idea/
+.venv/
+hamming_code.cpp
+binary_sewarch.cpp
